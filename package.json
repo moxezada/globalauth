@@ -1,0 +1,12 @@
+{
+  "name": "@moxezada/globalauth",
+  "version": "0.0.1",
+  "description": "Global auth server. You should be able plug in any application very easy without worrying about user management",
+  "main": "index.js",
+  "repository": "https://github.com/moxezada/globalauth",
+  "author": "moxezada",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14" 
+  }
+}
